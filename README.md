@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...DONT ASK ME
 - 📫 How to reach me: ...NIL
 - 😄 Pronouns: ...HE/HIM
-- ⚡ Fun fact: ...DOSE NOT HOW TO CODE
+- ⚡ Fun fact: ...DOSE NOT KNOW HOW TO CODE
 -->
